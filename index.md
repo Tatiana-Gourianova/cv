@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Tatiana Gourianova's portfolio
 
-You can use the [editor on GitHub](https://github.com/Tatiana-Gourianova/tgourianova.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [LinkedIn]([https://github.com/Tatiana-Gourianova/tgourianova.github.io/edit/gh-pages/index.md](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftatiana-gourianova%2F%3Ffbclid%3DIwAR1BoohgJctbxQE_reTNSaXX679p1sQgUstjgcmbsdtaJc_qvfPTWnGYKXI&h=AT1qqQ63Gbjd0UZAFOdf6sdU_HXH7JOLuedgGuBfb07JN47WTZU8BQTxI2NFPxx-df8eP1NjmBQX82kCFIt5onREv6KRGGAhR6xyyKYXzMHalzafoPxELpgA-PJIi66r0TVXUw)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
