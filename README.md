@@ -1,2 +1,2 @@
-# tgourianova.github.io
+# Tatiana-Gourianova.github.io
 <a href=https://www.linkedin.com/in/tatiana-gourianova/>LinkedIn</a>
