@@ -1,7 +1,7 @@
-# Tatiana Gourianova's portfolio
+# Tatiana Gourianova's portfolio:
 
 
-## profile:
+
 
 [LinkedIn](https://www.linkedin.com/in/tatiana-gourianova)
 
