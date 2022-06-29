@@ -1,7 +1,8 @@
 # Tatiana Gourianova's portfolio
 
- [LinkedIn](https://www.linkedin.com/in/tatiana-gourianova)
-##
+## profile:
+[LinkedIn](https://www.linkedin.com/in/tatiana-gourianova)
+#
 
 [azure site](https://tasktranslate.azurewebsites.net/)
  ##
