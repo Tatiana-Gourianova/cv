@@ -1,4 +1,5 @@
-# Tatiana Gourianova's portfolio(modul architecture: https://github.com/Tatiana-Gourianova/Monitorsenso
+# Tatiana Gourianova's portfolio
+
  [LinkedIn](https://www.linkedin.com/in/tatiana-gourianova)
 
  [my project] (https://play.google.com/store/apps/details?id=com.treatment.binocularvision.way)
