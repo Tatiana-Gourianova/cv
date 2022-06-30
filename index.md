@@ -22,6 +22,7 @@
  
  [Present position](https://baltkonkurs.ru/features/regional-conferences/affiliated-regional-conferences/minsk/?fbclid=IwAR1deJ4x_dMU7fUpoWgWmBHugAf0XPlg9trvkaLwFZQPzroHGqDtGjet60w)
 
+ [Achivment]([https://github.com/Tatiana-Gourianova/MonitorSensors2](https://tatiana-gourianova.github.io/cv/screans/Intel2.jpg)
  
  
 &  ...
