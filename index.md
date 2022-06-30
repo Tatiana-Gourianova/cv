@@ -20,6 +20,9 @@
 
  [modular architecture:](https://github.com/Tatiana-Gourianova/MonitorSensors2)
  
+ [present position:](https://baltkonkurs.ru/features/regional-conferences/affiliated-regional-conferences/minsk/?fbclid=IwAR1deJ4x_dMU7fUpoWgWmBHugAf0XPlg9trvkaLwFZQPzroHGqDtGjet60w)
+
+ 
  
 &  ...
   
