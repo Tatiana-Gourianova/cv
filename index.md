@@ -24,7 +24,7 @@
 
 ## Achivments:
 
-[Intel](https://tatiana-gourianova.github.io/cv/](https://github.com/Tatiana-Gourianova/cv/blob/main/screans/Intel2.jpg)
+[Intel](https://github.com/Tatiana-Gourianova/cv/blob/main/screans/Intel2.jpg)
  
  
 [Foto](https://github.com/Tatiana-Gourianova/cv/blob/main/screans/gurianova.png)
