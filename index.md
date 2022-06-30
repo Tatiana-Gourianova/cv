@@ -27,7 +27,7 @@
 [Intel](https://tatiana-gourianova.github.io/cv/screans/Intel2.jpg)
  
  
-[Foto](https://tatiana-gourianova.github.io/cv/screans/gourianova.png)
+[Foto](https://tatiana-gurianova.github.io/cv/screans/gourianova.png)
  
 &  ...
   
