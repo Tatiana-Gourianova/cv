@@ -23,7 +23,7 @@
 
  ## Achivments:
 
- [Intel]([https://github.com/Tatiana-Gourianova/MonitorSensors2](https://tatiana-gourianova.github.io/cv/screans/Intel2.jpg)
+ [Intel](https://tatiana-gourianova.github.io/cv/screans/Intel2.jpg)
  
  
 &  ...
