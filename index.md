@@ -1,5 +1,6 @@
 # Tatiana Gourianova's portfolio:
 
+
 [Present position](https://baltkonkurs.ru/features/regional-conferences/affiliated-regional-conferences/minsk/?fbclid=IwAR1deJ4x_dMU7fUpoWgWmBHugAf0XPlg9trvkaLwFZQPzroHGqDtGjet60w)
 
 
@@ -25,6 +26,8 @@
 
 [Intel](https://tatiana-gourianova.github.io/cv/screans/Intel2.jpg)
  
+ 
+ <img src="screans/gourianova.png>
  
 &  ...
   
